@@ -7,12 +7,12 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 **Master of Mechanical Engineering** 
 
 *National Taiwan University, Taipei, Taiwan*      *2017/09-2020/06*
-- Major in Thermal and Fluid Science | GPA:3.7/4.3
+- Major in Thermal and Fluid Science  GPA:3.7/4.3
 
 **Bachelor of Engineering and System Science**
 
 *National Tsing Hua University, Hsinchu, Taiwan*  *2013/09-2017/06*
-- Major in Heat Transfer and Fluid Mechanics | GPA:3.81/4.3 | Rank of department:13/111
+- Major in Heat Transfer and Fluid Mechanics   GPA:3.81/4.3   Rank of department:13/111
 
 # Skill
 <hr>
