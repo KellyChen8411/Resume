@@ -45,6 +45,22 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # International Experience
 
+**Exchange Program** 	
+
+*RWTH Aachen University, Aachen, Germany	2019/09 – 2020/02*
+
+**IFSTTAR Exchange Program**	
+
+*IFSTTAR, Nantes, France	2018/09 – 2018/10*
+ 
+**International Student Volunteer**	
+
+*National Taiwan University, Taiwan	2018/02 – 2019/01*
+-	Assisted two German and one Polish exchange students to get familiar with campus life and introduced Taiwanese food and culture to them
+
+**Exchange Program**	
+
+*Department of Energy and Power Engineering, Tsinghua University, Beijing, China	2016/07-2016/08*
 
 
 
