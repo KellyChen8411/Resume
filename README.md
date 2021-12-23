@@ -4,6 +4,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # Education
 <hr>
+
 **Master of Mechanical Engineering** 
 
 *National Taiwan University, Taipei, Taiwan*      *2017/09-2020/06*
@@ -16,6 +17,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # Skill
 <hr>
+
 **Language**
 
 - TOEFL-91/120 (R:24/L:23/S:22/W:22)   
@@ -28,6 +30,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # Work Experience
 <hr>
+
 **Server Thermal Engineer**
 
 *Wistron Corporation, Taipei, Taiwan*  *2020/08-now*
@@ -37,6 +40,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # Software Project Experience
 <hr>
+
 **Image Processing (language: Matlab)**
 1.	Algorithm for centroid locate
   - Develop an algorithm which can automatically detect centroids of disk material on image (500 material per image). For each experiment data (about 60 images to process), user can save about 20 hours
@@ -50,6 +54,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 # International Experience
 <hr>
+
 **Exchange Program** 	
 
 *RWTH Aachen University, Aachen, Germany	2019/09 – 2020/02*
