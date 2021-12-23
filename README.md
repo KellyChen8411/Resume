@@ -3,6 +3,7 @@
 I describe myself as being brave to try new thing. Besides my own major, I have also conducted research in Nuclear Engineering, Mechanism Design and Image Processing. Due to the enthusiasm for getting along with people, I devoted myself into international activities. They not only built my language, communication and presentation skill but also let me know how to embrace different culture and value objectively.
 
 # Education
+<hr>
 **Master of Mechanical Engineering** 
 
 *National Taiwan University, Taipei, Taiwan*      *2017/09-2020/06*
@@ -14,6 +15,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 - Major in Heat Transfer and Fluid Mechanics | GPA:3.81/4.3 | Rank of department:13/111
 
 # Skill
+<hr>
 **Language**
 
 - TOEFL-91/120 (R:24/L:23/S:22/W:22)   
@@ -25,6 +27,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 - Matlab, Excel VBA
 
 # Work Experience
+<hr>
 **Server Thermal Engineer**
 
 *Wistron Corporation, Taipei, Taiwan*  *2020/08-now*
@@ -33,6 +36,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 -	Develop automation tool for department
 
 # Software Project Experience
+<hr>
 **Image Processing (language: Matlab)**
 1.	Algorithm for centroid locate
   - Develop an algorithm which can automatically detect centroids of disk material on image (500 material per image). For each experiment data (about 60 images to process), user can save about 20 hours
@@ -45,7 +49,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 
 # International Experience
-
+<hr>
 **Exchange Program** 	
 
 *RWTH Aachen University, Aachen, Germany	2019/09 – 2020/02*
