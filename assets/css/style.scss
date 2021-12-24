@@ -1,5 +1,11 @@
-@import "{{ site.theme }}";
+---
+---
 
+@import "{{ site.theme }}";
 footer {
   display: none;
 }
+---
+---
+
+@import "jekyll-theme-minimal";
