@@ -26,7 +26,7 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 **Programming language**
 
-- Matlab, Excel VBA
+- Matlab, Excel VBA, Python
 
 # Work Experience
 <hr>
@@ -34,8 +34,8 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 **Server Thermal Engineer**
 
 *Wistron Corporation, Taipei, Taiwan*  *2020/08-now*
--	Design thermal solution for server
--	In charge of two product: be able to arrange and handle schedule and communicate with other function team and customer
+-	Design thermal solution and assess thermal risk for server
+-	In charge of two products: be able to arrange and handle schedule and communicate with other function team and customer
 -	Develop automation tool for department
 
 # Software Project Experience
@@ -43,13 +43,13 @@ I describe myself as being brave to try new thing. Besides my own major, I have 
 
 **Image Processing (language: Matlab)**
 1.	Algorithm for centroid locate
-  - Develop an algorithm which can automatically detect centroids of disk material on image (500 material per image). For each experiment data (about 60 images to process), user can save about 20 hours
+  - Develop an algorithm which can automatically detect centroids of disk material on image (500 material per image). For each experiment data (about 60 images to process), user can save about 20 hours.
 2.	High Dynamic Range Imaging
 3.	Image Stitching by using SIFT algorithm
 
 **Automation tool (language: Excel VBA)**
 1. Tool for log thermal test data automatically
-  - With pressing a button, excel will calculate average value form thermal test raw data and then import values into test report automatically. For each thermal test, engineer can save about 20 minutes on processing data.
+  - With pressing a button, excel will calculate average value form thermal test raw data and then import calculated result into test report automatically. For each thermal test, engineer can save about 20 minutes on processing data.
 
 
 # International Experience
